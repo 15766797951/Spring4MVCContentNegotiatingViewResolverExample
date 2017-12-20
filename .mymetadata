@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Spring4MVCContentNegotiatingViewResolverExample"
+  id="myeclipse.1513079843009"
+  context-root="/Spring4MVCContentNegotiatingViewResolverExample"
+  j2ee-spec="6.0"
+  archive="Spring4MVCContentNegotiatingViewResolverExample.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
